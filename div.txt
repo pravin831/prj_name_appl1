@@ -13,3 +13,10 @@ Class Demo {
 		int z=100;
 	}
 }
+	
+class Test {
+	
+	public void m1() {
+		int i=10;
+	}
+}
