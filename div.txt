@@ -7,3 +7,6 @@ bye...
 
 Wow.... 
 
+Class Demo {
+	int z=20;
+}
