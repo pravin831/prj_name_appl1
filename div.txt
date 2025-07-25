@@ -5,8 +5,13 @@ I am good
 
 bye...
 
+Class Test  {
+	int i=10;
+}
+
 Wow.... 
 
 Class Demo {
 	int z=20;
 }
+
