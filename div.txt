@@ -15,4 +15,3 @@ Class Demo {
 	int z=20;
 }
 
-int x=12345;
