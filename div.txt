@@ -6,3 +6,10 @@ I am good
 bye...
 
 Wow.... 
+
+Class Demo {
+	
+	public void m2() {
+		int z=100;
+	}
+}
